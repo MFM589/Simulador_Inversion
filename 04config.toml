@@ -1,0 +1,12 @@
+[server]
+headless = true
+address = "0.0.0.0"
+port = 5000
+
+[theme]
+# Tema profesional estilo bancario
+primaryColor = "#0066b2"  # Azul corporativo
+backgroundColor = "#ffffff"  # Fondo blanco
+secondaryBackgroundColor = "#f0f5ff"  # Azul claro para secciones
+textColor = "#333333"  # Texto oscuro para mejor contraste
+font = "sans serif"
